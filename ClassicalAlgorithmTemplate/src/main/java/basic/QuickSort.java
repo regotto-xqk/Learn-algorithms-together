@@ -7,7 +7,7 @@ package main.java.basic;
  * @author regotto
  */
 import java.util.*;
-public class Main {
+public class QuickSort {
 
     public static void quickSort(int q[], int l ,int r) {
         if (l >= r ) return;
